@@ -1,0 +1,3 @@
+11-11-2017 18:22:05 [INFO] App works just fine! 
+11-11-2017 18:22:05 [WARNING] Oops there is a warning... 
+11-11-2017 18:22:05 [ERROR] Error! {"foo":"bar"}
